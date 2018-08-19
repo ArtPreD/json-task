@@ -1,0 +1,808 @@
+{
+  "address": "0x02ced5d22386d09ba73b04ac2209250a47df7388",
+  "ETH": {
+    "balance": 0.00662605
+  },
+  "countTxs": 55,
+  "tokens": [
+    {
+      "tokenInfo": {
+        "address": "0xfdfe8b7ab6cf1bd1e3d14538ef40686296c42052",
+        "name": "Skraps",
+        "decimals": "18",
+        "symbol": "SKRP",
+        "totalSupply": "110000000000000000000000000",
+        "owner": "0x0d4258cb46f611a5b04e174d11c31d2c2ed92da5",
+        "lastUpdated": 1534673562,
+        "issuancesCount": 0,
+        "holdersCount": 9728,
+        "ethTransfersCount": 215,
+        "price": false
+      },
+      "balance": 6.0e+19,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec",
+        "name": "Lympo tokens",
+        "decimals": "18",
+        "symbol": "LYM",
+        "totalSupply": "999999999017098867808380000",
+        "owner": "0x",
+        "lastUpdated": 1534678942,
+        "issuancesCount": 0,
+        "holdersCount": 14887,
+        "ethTransfersCount": 0,
+        "price": {
+          "rate": "0.0163386866",
+          "diff": -17.98,
+          "diff7d": 20.69,
+          "ts": "1534678683",
+          "marketCapUsd": "12308717.0",
+          "availableSupply": "753347989.0",
+          "volume24h": "3251510.9574",
+          "diff30d": -51.223724370994,
+          "currency": "USD"
+        }
+      },
+      "balance": 5.4e+20,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x552ed8253f341fb770e8badff5a0e0ee2fd57b43",
+        "name": "Vestarin",
+        "decimals": "18",
+        "symbol": "VST",
+        "totalSupply": "18591797385105853842922000",
+        "owner": "0xea15adb66dc92a4bbccc8bf32fd25e2e86a2a770",
+        "lastUpdated": 1534676762,
+        "issuancesCount": 0,
+        "holdersCount": 16110,
+        "ethTransfersCount": 0,
+        "price": false
+      },
+      "balance": 6.8e+19,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x6dd4e4aad29a40edd6a409b9c1625186c9855b4d",
+        "name": "GENE TOKEN (PARKGENE)",
+        "decimals": "8",
+        "symbol": "GENE",
+        "totalSupply": "100000000000000000",
+        "owner": "0x",
+        "lastUpdated": 1526372696682,
+        "issuancesCount": 0,
+        "holdersCount": 2636,
+        "website": "https://gene.io",
+        "ethTransfersCount": 0,
+        "price": {
+          "rate": "0.0047208628",
+          "diff": 24.98,
+          "diff7d": 82.44,
+          "ts": "1534679288",
+          "marketCapUsd": "1320713.0",
+          "availableSupply": "279760863.0",
+          "volume24h": "162017.32673",
+          "diff30d": 8.6262169320108,
+          "currency": "USD"
+        }
+      },
+      "balance": 652947704600,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xfc41a15650f2a3b052d7a3b8f758665ed37d56ba",
+        "name": "Bank4YOU",
+        "decimals": "10",
+        "symbol": "BEEFY",
+        "totalSupply": "3000000000000000000",
+        "owner": "0x",
+        "lastUpdated": 1534640534,
+        "issuancesCount": 0,
+        "holdersCount": 2289,
+        "price": false
+      },
+      "balance": 900000000000,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xc56b13ebbcffa67cfb7979b900b736b3fb480d78",
+        "name": "Social Activity Token",
+        "decimals": "8",
+        "symbol": "SAT",
+        "totalSupply": "100000000000000000",
+        "owner": "0xaf4aa16734f0b665187ec80a2cbf13b12eadbfe6",
+        "lastUpdated": 1534678688,
+        "issuancesCount": 0,
+        "holdersCount": 64866,
+        "ethTransfersCount": 69,
+        "price": false
+      },
+      "balance": 73200000000,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x0db8d8b76bc361bacbb72e2c491e06085a97ab31",
+        "name": "iQeon",
+        "decimals": "18",
+        "symbol": "IQN",
+        "totalSupply": "5491860198755297407762232",
+        "owner": "0x5b1c4114b21b15b1c2de268abb876b74c40f5a05",
+        "lastUpdated": 1533295996038,
+        "issuancesCount": 0,
+        "holdersCount": 3616,
+        "image": "https://ethplorer.io/images/iqeon.png",
+        "description": "IQeon is a decentralized PvP gaming platform integrating games, applications and services based on intelligent competitions between users created to help players monetize their in-gaming achievements.\n\nThe internal economics of the IQeon ecosystem can't exist without its own currency, the role of which will be performed by IQN.",
+        "website": "https://iqeon.io",
+        "facebook": "iqeon",
+        "twitter": "IQeon",
+        "reddit": "IQeon",
+        "ethTransfersCount": 0,
+        "price": false
+      },
+      "balance": 3.800352526e+19,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xf3e014fe81267870624132ef3a646b8e83853a96",
+        "name": "VIN",
+        "decimals": "18",
+        "symbol": "VIN",
+        "totalSupply": "1000000000000000000000000000",
+        "owner": "0x3c014997175d1354888d665c9eb1a5c8d46cbd36",
+        "lastUpdated": 1530300548,
+        "issuancesCount": 0,
+        "holdersCount": 478310,
+        "price": false
+      },
+      "balance": 6.45e+20,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xc20464e0c373486d2b3335576e83a218b1618a5e",
+        "name": "Datarius Credit",
+        "decimals": "18",
+        "symbol": "DTRC",
+        "totalSupply": "239992867336773858158249736",
+        "owner": "0x",
+        "lastUpdated": 1534677902,
+        "issuancesCount": 0,
+        "holdersCount": 5667,
+        "ethTransfersCount": 0,
+        "price": {
+          "rate": "0.0019726398",
+          "diff": -2.67,
+          "diff7d": 1.32,
+          "ts": "1534678686",
+          "marketCapUsd": "252017.0",
+          "availableSupply": "127756071.0",
+          "volume24h": "342998.931108",
+          "diff30d": -43.870756816125,
+          "currency": "USD"
+        }
+      },
+      "balance": 1.73e+20,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x905e337c6c8645263d3521205aa37bf4d034e745",
+        "name": "Medical Token Currency",
+        "decimals": "18",
+        "symbol": "MTC",
+        "totalSupply": "1000000000000000000000000000",
+        "owner": "0x7a46c781b593068d5e987b191e9c2f7413e22aee",
+        "lastUpdated": 1534677784,
+        "issuancesCount": 0,
+        "holdersCount": 8642,
+        "ethTransfersCount": 0,
+        "price": false
+      },
+      "balance": 1.9e+20,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xca3ea3061d638e02113aa960340c98343b5acd62",
+        "name": "Bittwatt",
+        "decimals": "18",
+        "symbol": "BWT",
+        "totalSupply": "338600000000000000000000000",
+        "owner": "0xa7be4f7d87888b915a5042733f13527f31f503a3",
+        "lastUpdated": 1533462210,
+        "issuancesCount": 0,
+        "holdersCount": 7897,
+        "price": {
+          "rate": "0.0268275056",
+          "diff": 3.12,
+          "diff7d": 56.48,
+          "ts": "1534679287",
+          "marketCapUsd": null,
+          "availableSupply": null,
+          "volume24h": "467.464561238",
+          "diff30d": -24.626170608497,
+          "currency": "USD"
+        }
+      },
+      "balance": 3.02648e+21,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xbdeb4b83251fb146687fa19d1c660f99411eefe3",
+        "name": "Savedroid",
+        "decimals": "18",
+        "symbol": "SVD",
+        "totalSupply": "6997578543000000000000000000",
+        "owner": "0x05c187488333396435fe076d05a32f7859ffdd4b",
+        "lastUpdated": 1517813555742,
+        "issuancesCount": 0,
+        "holdersCount": 22750,
+        "website": "https://www.savedroid.com",
+        "ethTransfersCount": 0,
+        "price": false
+      },
+      "balance": 1.3203e+22,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x574f84108a98c575794f75483d801d1d5dc861a5",
+        "name": "Robotina token",
+        "decimals": "18",
+        "symbol": "ROX",
+        "totalSupply": "331614076921422388945691662",
+        "owner": "0x15117f8248c87b03af9a4b3f218381a9711238f0",
+        "lastUpdated": 1534677615,
+        "issuancesCount": 0,
+        "holdersCount": 7163,
+        "ethTransfersCount": 0,
+        "price": false
+      },
+      "balance": 9.1e+17,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x23b75bc7aaf28e2d6628c3f424b3882f8f072a3c",
+        "name": "Vice",
+        "decimals": "18",
+        "symbol": "VIT",
+        "totalSupply": "4000000000000000000000000000",
+        "owner": "0x7a121269e74d349b5ecfccb9ca948549278d0d10",
+        "lastUpdated": 1534677992,
+        "issuancesCount": 0,
+        "holdersCount": 4428,
+        "ethTransfersCount": 0,
+        "price": {
+          "rate": "0.0086293219",
+          "diff": 20.43,
+          "diff7d": 20.54,
+          "ts": "1534678686",
+          "marketCapUsd": "1991216.0",
+          "availableSupply": "230749949.0",
+          "volume24h": "32209.0000331",
+          "diff30d": 29.938923906728,
+          "currency": "USD"
+        }
+      },
+      "balance": 2.856e+21,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x4306ce4a5d8b21ee158cb8396a4f6866f14d6ac8",
+        "name": "Coinvest COIN Token",
+        "decimals": "18",
+        "symbol": "COIN",
+        "totalSupply": "107142857000000000000000000",
+        "owner": "0x",
+        "lastUpdated": 1534678336,
+        "issuancesCount": 0,
+        "holdersCount": 2956,
+        "ethTransfersCount": 0,
+        "price": false
+      },
+      "balance": 2.164502165e+19,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x1ed7ae1f0e2fa4276dd7ddc786334a3df81d50c0",
+        "name": "Forty Seven Bank Token",
+        "decimals": "18",
+        "symbol": "FSBT",
+        "totalSupply": "3699483445903791373304430",
+        "owner": "0x98f46c3eb0d9bec50a2eb1e3fb16c62d4536cae1",
+        "lastUpdated": 1534677170,
+        "issuancesCount": 0,
+        "holdersCount": 7698,
+        "price": {
+          "rate": "0.2404233952",
+          "diff": -4.72,
+          "diff7d": -8.68,
+          "ts": "1534679289",
+          "marketCapUsd": "843774.0",
+          "availableSupply": "3509535.0",
+          "volume24h": "368028.507813",
+          "diff30d": -45.52496336208,
+          "currency": "USD"
+        }
+      },
+      "balance": 9.9e+19,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x69786859bc92e0ca82fcfe1bffc502b7bea6a069",
+        "name": "European Crypto Bank",
+        "decimals": "4",
+        "symbol": "ECB",
+        "totalSupply": "6772832610000",
+        "owner": "0x",
+        "lastUpdated": 1534673891,
+        "issuancesCount": 0,
+        "holdersCount": 6295,
+        "price": false
+      },
+      "balance": 84385000,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xaae81c0194d6459f320b70ca0cedf88e11a242ce",
+        "name": "WeToken",
+        "decimals": "18",
+        "symbol": "WT",
+        "totalSupply": "600000000000000000000000000",
+        "owner": "0xe2186aeb756d6f8bc3acd2a22578a5e1c1eb8c72",
+        "lastUpdated": 1534665490,
+        "issuancesCount": 0,
+        "holdersCount": 53174,
+        "ethTransfersCount": 0,
+        "price": {
+          "rate": "0.0068228261",
+          "diff": -2.73,
+          "diff7d": -1.9,
+          "ts": "1534678690",
+          "marketCapUsd": null,
+          "availableSupply": null,
+          "volume24h": "233666.554265",
+          "currency": "USD"
+        }
+      },
+      "balance": 2.9316676e+21,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+        "name": "Unibright Token",
+        "decimals": "8",
+        "symbol": "UBT",
+        "totalSupply": "15000000000000000",
+        "owner": "0x",
+        "lastUpdated": 1519379244645,
+        "issuancesCount": 0,
+        "holdersCount": 5630,
+        "image": "https://ethplorer.io/images/unibright-logo.svg",
+        "description": "The Unibright Token is a utility token empowering the Unibright Framework, the unified framework for blockchain based business integration.",
+        "website": "https://unibright.io",
+        "facebook": "Unibright.IO",
+        "twitter": "unibrightio",
+        "ethTransfersCount": 0,
+        "price": {
+          "rate": "0.0255097493",
+          "diff": -2.43,
+          "diff7d": -2.7,
+          "ts": "1534678689",
+          "marketCapUsd": "3525148.0",
+          "availableSupply": "138188252.0",
+          "volume24h": "545547.017831",
+          "diff30d": -26.567827411109,
+          "currency": "USD"
+        }
+      },
+      "balance": 58214900000,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x4c567c3363cc42c5a42c6d8bf01503fd1d0b91cd",
+        "name": "Elementh Token",
+        "decimals": "18",
+        "symbol": "EEE",
+        "totalSupply": "93011322450358773644433927",
+        "owner": "0x",
+        "lastUpdated": 1534678087,
+        "issuancesCount": 0,
+        "holdersCount": 33315,
+        "price": false
+      },
+      "balance": 7.4685993884366e+20,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134",
+        "name": "BOB Token",
+        "decimals": "18",
+        "symbol": "BOB",
+        "totalSupply": "360000000000000000000000000",
+        "owner": "0xd5c63f784a9d515d24d10cd4510b609b81f7a874",
+        "lastUpdated": 1534679041,
+        "issuancesCount": 0,
+        "holdersCount": 29742,
+        "ethTransfersCount": 0,
+        "price": {
+          "rate": "0.0152336809",
+          "diff": -1.39,
+          "diff7d": 116.7,
+          "ts": "1534679287",
+          "marketCapUsd": "1192589.0",
+          "availableSupply": "78286331.0",
+          "volume24h": "582055.850518",
+          "diff30d": -23.652178118579,
+          "currency": "USD"
+        }
+      },
+      "balance": 4.112297841e+20,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xebe4a49df7885d015329c919bf43e6460a858f1e",
+        "name": "SHOOK",
+        "decimals": "18",
+        "symbol": "SHK",
+        "totalSupply": "1000000000000000000000000000",
+        "owner": "0x67e99fe13aa65cf44eb4312e6e2c9846d3b1300b",
+        "lastUpdated": 1532419327,
+        "issuancesCount": 0,
+        "holdersCount": 14006,
+        "price": false
+      },
+      "balance": 5.72727e+21,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xac956c72c262e5405a84dac655d5f3bea7ae9534",
+        "name": "NodePower",
+        "decimals": "2",
+        "symbol": "NODE",
+        "totalSupply": "117596120",
+        "owner": "0x",
+        "lastUpdated": 1534627998,
+        "issuancesCount": 0,
+        "holdersCount": 5040,
+        "ethTransfersCount": 0,
+        "price": false
+      },
+      "balance": 590,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x92d3e963aa94d909869940a8d15fa16ccbc6655e",
+        "name": "GYM Rewards",
+        "decimals": "18",
+        "symbol": "GYM",
+        "totalSupply": "340575423993443001499955000",
+        "owner": "0xe036d7c2bc1508ff57410e5b0c24cfb4d1089154",
+        "lastUpdated": 1534655027,
+        "issuancesCount": 0,
+        "holdersCount": 9512,
+        "price": false
+      },
+      "balance": 3.115408e+22,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x7e43581b19ab509bcf9397a2efd1ab10233f27de",
+        "name": "BitGuild PLAT",
+        "decimals": "18",
+        "symbol": "PLAT",
+        "totalSupply": "9451705422580431648836800000",
+        "owner": "0x",
+        "lastUpdated": 1534648160,
+        "issuancesCount": 0,
+        "holdersCount": 8796,
+        "ethTransfersCount": 0,
+        "price": false
+      },
+      "balance": 1.1184328985e+22,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x7148b80b38278853ca8263cfc0b57d4478ae6a6e",
+        "name": "Peurcoin",
+        "decimals": "8",
+        "symbol": "PURC",
+        "totalSupply": "20000000000000000",
+        "owner": "0x0b18b43aab53ba8c03d1571e75bb29338ac89aa4",
+        "lastUpdated": 1534659726,
+        "issuancesCount": 0,
+        "holdersCount": 5559,
+        "price": false
+      },
+      "balance": 341589000000,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x69c4bb240cf05d51eeab6985bab35527d04a8c64",
+        "name": "OPEN",
+        "decimals": "8",
+        "symbol": "OPEN",
+        "totalSupply": "100000000000000000",
+        "owner": "0x5e6adef387c15ff23dd2179bc7c17c656a45b524",
+        "lastUpdated": 1534679039,
+        "issuancesCount": 0,
+        "holdersCount": 61965,
+        "ethTransfersCount": 0,
+        "price": {
+          "rate": "0.0264476425",
+          "diff": -1.46,
+          "diff7d": -9.63,
+          "ts": "1534679287",
+          "marketCapUsd": null,
+          "availableSupply": null,
+          "volume24h": "464215.201485",
+          "diff30d": -61.319435608305,
+          "currency": "USD"
+        }
+      },
+      "balance": 23160760000,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xfdb1d263112b0a668dce5748d961b4851cfca8ee",
+        "name": "Forever Has Fallen",
+        "decimals": "18",
+        "symbol": "FC",
+        "totalSupply": "1000000000000000000000000000",
+        "owner": "0x5256aaca32116a681b65b07d76b82ba9fa4e495b",
+        "lastUpdated": 1534661075,
+        "issuancesCount": 0,
+        "holdersCount": 6077,
+        "price": false
+      },
+      "balance": 9.09996e+21,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xff5c25d2f40b47c4a37f989de933e26562ef0ac0",
+        "name": "Kora Network Token",
+        "decimals": "16",
+        "symbol": "KNT",
+        "totalSupply": "7125000000000000000000000",
+        "owner": "0x7ca1225731d9f044635582906308590b5ee95441",
+        "lastUpdated": 1534673561,
+        "issuancesCount": 0,
+        "holdersCount": 6563,
+        "ethTransfersCount": 0,
+        "price": false
+      },
+      "balance": 7.3687e+19,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x4f27053f32eda8af84956437bc00e5ffa7003287",
+        "name": "ThriveToken",
+        "decimals": "18",
+        "symbol": "THRT",
+        "totalSupply": "202027489600000000000000000",
+        "owner": "0x",
+        "lastUpdated": 1534673477,
+        "issuancesCount": 0,
+        "holdersCount": 14609,
+        "price": {
+          "rate": "0.0090055728",
+          "diff": -0.47,
+          "diff7d": 3.62,
+          "ts": "1534679288",
+          "marketCapUsd": "845059.0",
+          "availableSupply": "93837330.0",
+          "volume24h": "202657.426219",
+          "diff30d": -64.279900838901,
+          "currency": "USD"
+        }
+      },
+      "balance": 1.1181973929237e+21,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xa1d5e2190250276633ae0f2093f24625aede856c",
+        "name": "MIRA Token",
+        "decimals": "8",
+        "symbol": "MIRA",
+        "totalSupply": "3077000000000000",
+        "owner": "0x635c8f19795db0330a5b7465df0bd2eed1a5758e",
+        "lastUpdated": 1532415726,
+        "issuancesCount": 0,
+        "holdersCount": 1005,
+        "price": false
+      },
+      "balance": 6935530380,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+        "name": "QuarkChain Token",
+        "decimals": "18",
+        "symbol": "QKC",
+        "totalSupply": "10000000000000000000000000000",
+        "owner": "0x776d60d98e6e6bf73a90d4af0b6c8d47a352fde7",
+        "lastUpdated": 1534675290,
+        "issuancesCount": 0,
+        "holdersCount": 7609,
+        "ethTransfersCount": 0,
+        "price": {
+          "rate": "0.0269687613",
+          "diff": -6.94,
+          "diff7d": -14.28,
+          "ts": "1534678688",
+          "marketCapUsd": "20181171.0",
+          "availableSupply": "748316585.0",
+          "volume24h": "3963959.02784",
+          "diff30d": -63.68719015887,
+          "currency": "USD"
+        }
+      },
+      "balance": 1.0e+20,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
+        "name": "ABYSS",
+        "decimals": "18",
+        "symbol": "ABYSS",
+        "totalSupply": "508628132041069469203893949",
+        "owner": "0x",
+        "lastUpdated": 1524735235352,
+        "issuancesCount": 0,
+        "holdersCount": 14004,
+        "image": "https://ethplorer.io/images/theabyss.png",
+        "description": "The next-generation digital distribution platform, delivering all types of video games (including AAA-titles), to the fast-growing global game community.",
+        "website": "https://www.theabyss.com",
+        "facebook": "theabyss",
+        "twitter": "theabyss",
+        "reddit": "theabyssplatform",
+        "ethTransfersCount": 0,
+        "price": {
+          "rate": "0.0229478263",
+          "diff": -8.41,
+          "diff7d": -14.21,
+          "ts": "1534679291",
+          "marketCapUsd": "5084475.0",
+          "availableSupply": "221566730.0",
+          "volume24h": "407114.082645",
+          "diff30d": -5.4185417825863,
+          "currency": "USD"
+        }
+      },
+      "balance": 1.076185894e+21,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xfdfd5db568f2ecf9b06a16116b9201b0500735b4",
+        "name": "Velix ID Token",
+        "decimals": "18",
+        "symbol": "VXD",
+        "totalSupply": "100000000000000000000000000",
+        "owner": "0x8c633b60d9945f34fd815a25ef494215cab9b9fd",
+        "lastUpdated": 1534585959,
+        "issuancesCount": 0,
+        "holdersCount": 10269,
+        "price": false
+      },
+      "balance": 3.3158e+20,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0x50f90bd2053db1fd57f656aa027714b2bbb96b2e",
+        "name": "NTOK Token Contract",
+        "decimals": "18",
+        "symbol": "NTOK",
+        "totalSupply": "2774329000000000000000000",
+        "owner": "0xc347bb5b30b499a7bad11cd4c5518920d5b0de3c",
+        "lastUpdated": 1534655631,
+        "issuancesCount": 0,
+        "holdersCount": 10839,
+        "price": false
+      },
+      "balance": 1.751978892e+20,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xf53c580bc4065405bc649cc077ff4f2f28528f4b",
+        "name": "Bittwatt",
+        "decimals": "18",
+        "symbol": "BWT",
+        "totalSupply": "338600000000000000000000000",
+        "owner": "0xa7be4f7d87888b915a5042733f13527f31f503a3",
+        "lastUpdated": 1534677456,
+        "issuancesCount": 0,
+        "holdersCount": 7820,
+        "price": false
+      },
+      "balance": 3.02648e+21,
+      "totalIn": 0,
+      "totalOut": 0
+    },
+    {
+      "tokenInfo": {
+        "address": "0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0",
+        "name": "SeeleToken",
+        "decimals": "18",
+        "symbol": "Seele",
+        "totalSupply": "1000000000000000000000000000",
+        "owner": "0x00a15056034ceffe6b0f3b8ac9c5d75fd20a7046",
+        "lastUpdated": 1534675597,
+        "issuancesCount": 0,
+        "holdersCount": 4202,
+        "ethTransfersCount": 0,
+        "price": false
+      },
+      "balance": 1.8e+21,
+      "totalIn": 0,
+      "totalOut": 0
+    }
+  ]
+}
