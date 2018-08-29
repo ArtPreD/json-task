@@ -8,6 +8,7 @@ public class TokenInfo {
     private String symbol;
     private BigDecimal balance;
     private int factor;
+    private double rate;
 
     public TokenInfo() {
     }
@@ -36,8 +37,21 @@ public class TokenInfo {
         this.factor = factor;
     }
 
+    public double getRate() {
+        return rate;
+    }
+
+    public void setRate(double rate) {
+        this.rate = rate;
+    }
+
     @Override
     public String toString() {
-        return symbol + " : " + Convert.fromWei(balance, factor);
+        String msg = symbol + " : " + Convert.fromWei(balance, factor);
+        if (rate != 0.0){
+          double usd =  Convert.fromWei(balance, factor).multiply(new BigDecimal(rate)).doubleValue();
+          msg = msg.concat(" USD: " + usd);
+        }
+        return msg;
     }
 }
