@@ -11,6 +11,7 @@ public class TokenInfo {
     private double rate;
 
     public TokenInfo() {
+
     }
 
     public String getSymbol() {
